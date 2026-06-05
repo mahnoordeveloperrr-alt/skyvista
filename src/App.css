@@ -59,7 +59,7 @@ body {
 
 /* HERO */
 .hero { position: relative; min-height: 100vh; display: flex; align-items: center; overflow: hidden; }
-.hero-bg { position: absolute; top:0; right:0; width:70%; height:100%; background:url('img/21.png') center/cover no-repeat; z-index:0; }
+.hero-bg { position: absolute; top:0; right:0; width:70%; height:100%; background:url('./img/21.png') center/cover no-repeat; z-index:0; }
 .hero-content { position: relative; z-index:2; width:100%; padding:2rem 1.5rem; }
 .hero-text {
     font-family: var(--font-orbitron); font-size: clamp(5rem, 15vw, 14rem); font-weight:800;

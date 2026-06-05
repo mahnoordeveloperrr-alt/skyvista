@@ -395,7 +395,7 @@ function App() {
                 <h3>Capt. David Okonkwo</h3>
                 <span>SENIOR CAPTAIN</span>
               </div>
-              <img src="/img/4.jpg" alt="" />
+              <img src="./img/4.jpg" alt="" />
             </div>
             <div className="crew-card">
               <div className="card-top">
